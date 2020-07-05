@@ -1,0 +1,44 @@
+.fondoA {
+    background-color: gainsboro;
+}
+
+.cajaA {
+    float: left;
+    width: 800px;
+    height: 1000px;
+    background-color: lightskyblue;
+    margin: 50px;
+    border-radius: 30px;
+
+
+}
+
+.cajaA2 {
+    float: right;
+    width: 300px;
+    height: 900px;
+    background-color: gainsboro;
+
+    margin: 200px 85px 0px 0px;
+
+
+}
+
+.cajaA3 {
+
+    width: 1250px;
+    height: 1000px;
+    background-color: lightskyblue;
+    margin: 80px;
+
+    border-radius: 30px;
+
+    margin: 1150px 50px 0px;
+
+
+}
+
+.margena {
+
+    margin: 50px;
+}

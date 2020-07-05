@@ -1,0 +1,19 @@
+
+
+.fondos{
+	background-color: lightskyblue;
+}
+.cajas{
+    
+	width: 1185px;
+	height: 2500px;
+	background-color: white;
+	margin: 80px;
+	border-radius: 30px;
+
+
+}
+
+.margens{
+  margin: 50px;
+}

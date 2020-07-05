@@ -1,0 +1,87 @@
+.fondo{
+
+	background: royalblue;
+}
+.fondo2{
+
+	background: white;
+}
+.fondo4{
+	background: powderblue;
+}
+.fondo5{
+	background-color: lightcyan;
+}
+.fondo6{
+	background-color: azure;
+}
+.fondo7{
+
+	background-color: darkorchid;
+}
+.color2{
+
+	
+	font-family: sans-serif;
+	color : navy;
+	margin: 100px;
+	text-align: center;
+
+	
+}
+.centrado{
+
+	text-align: center;
+}
+.color{
+
+
+	
+	font-family: arial;
+	color : white;
+	margin: 30px;
+
+	
+}
+.color4{
+
+	
+	font-family: sans-serif;
+	color : teal;
+
+	text-align: center;
+
+	
+}
+.barra{
+background-color: red;
+
+}
+.aliniar{
+	text-align: left;
+	color: gold;
+}
+.color3{  
+
+   color: lightslategray;
+
+	}
+.margen{
+	margin: 30px 30px 100px 30px;
+}
+
+.margenn{
+
+	margin: 100px 40px 200px;
+
+}
+.margen2{
+
+	margin: 10px 10px 0px 30px;
+}
+
+
+.estilo2{
+	color: midnightblue;
+	text-align: center;
+}

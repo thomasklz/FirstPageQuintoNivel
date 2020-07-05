@@ -1,0 +1,40 @@
+.fondoi {
+
+    background-color: darkblue;
+}
+
+.cajai {
+
+    width: 1280px;
+    height: 1300px;
+    background-color: darkblue;
+    margin: 30px 30px 10px;
+    border-radius: 30px;
+
+
+
+}
+
+.colori {
+    color: yellow;
+}
+
+.colori2 {
+    color: tomato;
+}
+
+.colori3 {
+    color: darkturquoise;
+}
+
+.colori4 {
+    color: gray;
+}
+
+.colori5 {
+    color: salmon;
+}
+
+.colori6 {
+    color: red;
+}

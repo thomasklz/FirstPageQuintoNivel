@@ -1,0 +1,47 @@
+.fondoo{
+	background-color: lightseagreen;
+	overflow: hidden;
+}
+.caja{
+    float: left;
+	width: 700px;
+	height: 500px;
+	background-color: lightcyan;
+	margin: 80px;
+	border-radius: 30px;
+
+
+}
+.caja2{
+    float: right;
+	width: 460px;
+	height: 400px;
+	background-color: lightseagreen;
+	
+	margin: 150px 10px 60px 5px;
+
+
+}
+
+.caja3{
+
+	width: 1280px;
+	height: 2800px;
+	background-color: white;
+	margin: 600px 30px 10px;
+	border-radius: 30px;
+
+
+
+}
+
+
+.margen{
+	margin: 30px;
+}
+
+
+.margenn2{
+
+	margin: 50px;
+}

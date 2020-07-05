@@ -1,0 +1,25 @@
+.cajaR {
+
+    width: 700px;
+    height: 800px;
+    background-color: mediumaquamarine;
+    margin: 80px;
+    border-radius: 30px;
+
+
+}
+
+.fila {
+
+    color: red;
+
+}
+
+.cuadro {
+    border-radius: 30px;
+}
+
+.cajaR2 {
+
+    border-radius: 30px;
+}

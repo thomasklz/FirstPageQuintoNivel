@@ -1,0 +1,24 @@
+.fondon{
+
+
+	background-color: cyan;
+}
+.fondon2{
+	background-color: fuchsia;
+}
+.fondon3{
+	background-color: gold;
+}
+.letra{
+
+	color: darkblue;
+	text-align: center;;
+}
+.letra2{
+
+	color: white;
+	text-align: center;;
+}
+.margenN{
+	margin: 30px 30px 100px 30px;
+}

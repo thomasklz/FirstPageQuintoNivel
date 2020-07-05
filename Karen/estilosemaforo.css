@@ -1,0 +1,18 @@
+.fondoS{
+	background-image: url(imagenes/mapa.jpg);
+	background-size: 1550px 1000px;
+	background-repeat: no-repeat;
+	color: gainsboro;
+	text-align: justify;
+}
+
+.fondoS2{
+	background-color: tomato;
+}
+
+.fondoS3{
+	background-color: hsl(62, 100%, 70%);
+}
+.fondoS4{
+	background-color: palegreen;
+}
